@@ -8,4 +8,4 @@ Notebooks used for experimentation and exploration with different advanced Machi
 
 * [(Doc2Vec) Paragraph-Vector-based question similarity with Quora data](quora-question-similarity/quora-question-similarity.ipynb)
 
-* [Stack Exchange cross-site keyword extraction](stack-exchange-keyword-extraction/Stack-Exchange-keyword-extraction.ipynb)
+* [Stack Exchange cross-site TFIDF keyword extraction](stack-exchange-keyword-extraction/Stack-Exchange-keyword-extraction.ipynb)
