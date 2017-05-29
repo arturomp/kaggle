@@ -1,6 +1,6 @@
 # Kaggle competition code
 
-![Convolutional Neural Net on handwritten digits](notebooks-img/cnn-mnist-trunc.png?raw=true "Convolutional Neural Net on handwritten digits")
+[![Convolutional Neural Net on handwritten digits](notebooks-img/cnn-mnist-trunc.png?raw=true "Convolutional Neural Net on handwritten digits")](digit-recognition/cnn-digit-recognition.ipynb)
 
 Notebooks used for experimentation and exploration with different advanced Machine Learning techniques:
 
